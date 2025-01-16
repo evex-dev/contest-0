@@ -8,7 +8,7 @@ Level 3: 15 point
 Level 4: 20 point  
 Level 5: 25 point
 
-First Clear Bonus: 2 point
+First Clear Bonus: 2 point  
 Second, Third: 1 point
 
 ## Rules
