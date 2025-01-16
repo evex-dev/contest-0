@@ -1,5 +1,5 @@
 # contest-0
-Deobf Contest Level 0 ~ Level 5
+Deobf Contest Level 0 ~ Level 5 + Special Level
 
 ## Rules
 1. **Don't cheat.**  
