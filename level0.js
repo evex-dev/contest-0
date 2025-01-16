@@ -1,5 +1,5 @@
 // you hide your head but fail to hide your butt :/
-globalThis_password = "hide";
+globalThis._password = "hide";
 !function() {
     function R(R) {
         for (var r = 2907492, a = R.length, t = [], o = 0; o < a; o++) t[o] = R.charAt(o);
