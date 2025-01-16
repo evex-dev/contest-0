@@ -6,8 +6,8 @@ Level 1: 5 point
 Level 2: 10 point  
 Level 3: 15 point  
 Level 4: 20 point  
-Level 5: 25 point
-Level W: 3 point
+Level 5: 25 point  
+Level W: 5 point
 
 First Clear Bonus: 2 point  
 Second, Third: 1 point
