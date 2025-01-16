@@ -9,6 +9,7 @@ Level 4: 20 point
 Level 5: 25 point
 
 First Clear Bonus: 2 point
+Second, Third: 1 point
 
 ## Rules
 1. **Don't cheat.**  
