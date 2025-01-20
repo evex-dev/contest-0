@@ -1,7 +1,7 @@
 # Contest 0
 Deobf Contest Level 0 ~ Level 5 + Special Level
 
-Level 0: 3 point  
+Level 0: 2 point  
 Level 1: 6 point  
 Level 2: 9 point  
 Level 3: 11 point  
@@ -12,6 +12,7 @@ Level R: 8 point
 Level W: 6 point  
 Level J: 4 point  
 Level F: 11 point
+Level K: 7 point
 
 ## Rules
 1. **Don't cheat.**  
