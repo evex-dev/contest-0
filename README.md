@@ -11,6 +11,7 @@ Level C: 15 point
 Level R: 8 point  
 Level W: 6 point  
 Level J: 4 point
+Level F: 14 point
 
 First Clear Bonus: 2 point  
 Second, Third: 1 point
