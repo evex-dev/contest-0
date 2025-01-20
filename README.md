@@ -13,9 +13,6 @@ Level W: 6 point
 Level J: 4 point  
 Level F: 11 point
 
-First Clear Bonus: 2 point  
-Second, Third: 1 point
-
 ## Rules
 1. **Don't cheat.**  
    Please quit cooperating with others. 
