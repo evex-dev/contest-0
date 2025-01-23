@@ -6,7 +6,8 @@ Level 1: 6 point
 Level 2: 9 point  
 Level 3: 11 point  
 Level 4: 12 point  
-Level 5: 14 point  
+Level 5: 13 point  
+Level 6: 14 point
 Level C: 13 point  
 Level R: 8 point  
 Level W: 6 point  
