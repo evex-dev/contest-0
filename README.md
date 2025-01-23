@@ -14,8 +14,8 @@ Level R: 8 point
 Level W: 6 point  
 Level J: 4 point  
 Level F: 10 point  
-Level K: 7 point
-Level X: 23 point
+Level K: 7 point  
+Level X: 26 point
 
 ## Rules
 1. **Don't cheat.**  
