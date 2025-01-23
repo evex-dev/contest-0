@@ -13,7 +13,7 @@ Level C: 12 point
 Level R: 8 point  
 Level W: 6 point  
 Level J: 4 point  
-Level F: 10 point
+Level F: 10 point  
 Level K: 7 point
 
 ## Rules
