@@ -23,5 +23,5 @@ Level K: 7 point
    Manually, or good.
 3. **AI is not your teacher.**  
    You can use them but don't leave everything to them.
-4. **This is only a contest for deobfuscation.**
+4. **This is only a contest for deobfuscation.**  
    You understand, don't you?
