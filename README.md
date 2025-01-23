@@ -16,6 +16,8 @@ Level J: 4 point
 Level F: 10 point  
 Level K: 7 point
 
+Level X: 20 point
+
 ## Rules
 1. **Don't cheat.**  
    Please quit cooperating with others. 
