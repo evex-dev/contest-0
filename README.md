@@ -1,6 +1,4 @@
 # Contest 0
-Deobf Contest Level 0 ~ Level 5 + Special Level
-
 Level 0: 2 point  
 Level 1: 6 point  
 Level 2: 8 point  
