@@ -1,4 +1,7 @@
 # Contest 0
+
+# レベルと難易度は関係ありません
+
 Level 0: 2 point  
 Level 1: 6 point  
 Level 2: 8 point  
