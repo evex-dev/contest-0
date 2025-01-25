@@ -4,7 +4,7 @@ Deobf Contest Level 0 ~ Level 5 + Special Level
 Level 0: 2 point  
 Level 1: 6 point  
 Level 2: 8 point  
-Level 3: 9 point  
+Level 3: 3 point  
 Level 4: 10 point  
 Level 5: 10 point  
 Level 6: 11 point  
